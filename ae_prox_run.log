@@ -1,0 +1,5 @@
+Device cuda | AE-MLP+FedProx | 60r × 3e
+
+Round 01 | rec 1.0524 | cls 7.3131 | acc 0.933 | auc 0.597
+Round 02 | rec 0.9448 | cls 5.4953 | acc 0.934 | auc 0.741
+Round 03 | rec 0.7442 | cls 4.1202 | acc 0.935 | auc 0.787
